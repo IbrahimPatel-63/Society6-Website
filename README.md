@@ -5,7 +5,7 @@ This is a clean and visually appealing clone of the **Society6** website.It was 
 ---
 
 ## 🚀🚀 Live Demo
-[Click here to view the live site](https://ibrahimpatel-63.github.io/Society6-website-s-Clone/)
+[Click here to view the live site](https://ibrahimpatel-63.github.io/Society6-Website/)
 
 ## 🖼️ Screenshot
 [![Screenshot](./images/screenshot.png)](./images/screenshot.png)
